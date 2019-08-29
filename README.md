@@ -3,7 +3,7 @@
 ### Quickly spin up a Vanilla Javascript project with json server.
 
 <p align="center">
-  <img width="auto" height="300" src="https://media.giphy.com/media/uUs14eCA2SBgs/giphy.gif">
+  <img width="auto" height="300" src="assets/images/vanilla.gif">
 </p>
 
 Fork then run the following command:
